@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Medicine-Recommendation-System
 A Medicine Recommendation System in machine learning (ML) is a software application designed to assist healthcare professionals and patients in selecting the most appropriate medication based on various factors such as medical history, symptoms, demographics, and drug interactions. Here's a breakdown of its components and functionality:
 
@@ -18,3 +19,6 @@ A Medicine Recommendation System in machine learning (ML) is a software applicat
 8. **Integration with Healthcare Systems**: The recommendation system can be integrated with existing healthcare information systems, such as electronic medical records (EMRs) or pharmacy management systems, to streamline the medication selection process and ensure seamless adoption by healthcare providers.
 
 .
+=======
+# medical_recommended_system
+>>>>>>> e870655572ebe1b4b59ebf09e311228009d6a254
